@@ -1,0 +1,1 @@
+powershell -NoExit ".\login_o365.ps1"
